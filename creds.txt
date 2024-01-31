@@ -1,0 +1,2 @@
+uname = "lachu"
+upass = 'qwerty123"
